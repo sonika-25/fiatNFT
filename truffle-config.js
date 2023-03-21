@@ -61,7 +61,7 @@ module.exports = {
      harmonymain : {
        provider : () => {
          return new HDWalletProvider (
-           "0x1ed0da635980c03c78c9df00ce4b99f6ec17e5c4bcf23b676b8f6a84f5f05aea",
+           "<Private Key>",
            "https://api.harmony.one",
          );
        },
